@@ -5,6 +5,7 @@ go 1.20
 require (
 	github.com/aquasecurity/defsec v0.93.2-0.20231024055158-015ab97ce898
 	github.com/docker/docker v24.0.7+incompatible
+	github.com/khulnasoft-lab/vul-iac v0.0.0-20231111190840-f0f14aa85242
 	github.com/liamg/iamgo v0.0.9
 	github.com/liamg/memoryfs v1.6.0
 	github.com/owenrumney/squealer v1.2.1
@@ -55,7 +56,6 @@ require (
 	github.com/hashicorp/hcl/v2 v2.18.1 // indirect
 	github.com/jbenet/go-context v0.0.0-20150711004518-d14ea06fba99 // indirect
 	github.com/kevinburke/ssh_config v1.2.0 // indirect
-	github.com/khulnasoft-lab/vul-iac v0.0.0-20231111190840-f0f14aa85242 // indirect
 	github.com/klauspost/compress v1.16.3 // indirect
 	github.com/liamg/jfather v0.0.7 // indirect
 	github.com/lufia/plan9stats v0.0.0-20211012122336-39d0f177ccd0 // indirect
@@ -106,7 +106,7 @@ require (
 	golang.org/x/text v0.13.0 // indirect
 	golang.org/x/tools v0.8.0 // indirect
 	google.golang.org/genproto/googleapis/rpc v0.0.0-20230711160842-782d3b101e98 // indirect
-	google.golang.org/grpc v1.58.2 // indirect
+	google.golang.org/grpc v1.58.3 // indirect
 	google.golang.org/protobuf v1.31.0 // indirect
 	gopkg.in/warnings.v0 v0.1.2 // indirect
 	gopkg.in/yaml.v2 v2.4.0 // indirect
