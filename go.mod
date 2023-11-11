@@ -1,8 +1,6 @@
 module github.com/khulnasoft-lab/vul-policies
 
-go 1.21.1
-
-toolchain go1.21.3
+go 1.20
 
 require (
 	github.com/aquasecurity/defsec v0.93.2-0.20231024055158-015ab97ce898
