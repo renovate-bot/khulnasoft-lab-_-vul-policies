@@ -5,7 +5,7 @@ go 1.20
 require (
 	github.com/aquasecurity/defsec v0.93.2-0.20231024055158-015ab97ce898
 	github.com/docker/docker v24.0.7+incompatible
-	github.com/khulnasoft-lab/vul-iac v0.0.0-20231111190840-f0f14aa85242
+	github.com/khulnasoft-lab/vul-iac v0.0.0-20231111231139-098db3f9bf97
 	github.com/liamg/iamgo v0.0.9
 	github.com/liamg/memoryfs v1.6.0
 	github.com/owenrumney/squealer v1.2.1
