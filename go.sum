@@ -155,6 +155,8 @@ github.com/khulnasoft-lab/vul-iac v0.0.0-20231111190840-f0f14aa85242 h1:wdDFQcqk
 github.com/khulnasoft-lab/vul-iac v0.0.0-20231111190840-f0f14aa85242/go.mod h1:9h8wFNaJNVP7kfr5fdj6lAzE1Ypqyi6MPwPetyHB+dA=
 github.com/khulnasoft-lab/vul-iac v0.0.0-20231111231139-098db3f9bf97 h1:faF2NVf0eXRW4R+Vjvg/fNc30Vx7IgM3c6JEcdNTe7k=
 github.com/khulnasoft-lab/vul-iac v0.0.0-20231111231139-098db3f9bf97/go.mod h1:LpY+JWkzsYJvpT1GiYfeNaIH9Fo8wiEOVfjYZVRIV9A=
+github.com/khulnasoft-lab/vul-iac v0.0.0-20231111232227-8c4efc29c447 h1:n8OpBXZjowx5BP3fYspMtKoJxRROvmouBI95O/N8XKY=
+github.com/khulnasoft-lab/vul-iac v0.0.0-20231111232227-8c4efc29c447/go.mod h1:LpY+JWkzsYJvpT1GiYfeNaIH9Fo8wiEOVfjYZVRIV9A=
 github.com/kisielk/errcheck v1.5.0/go.mod h1:pFxgyoBC7bSaBwPgfKdkLd5X25qrDl4LWUI2bnpBCr8=
 github.com/kisielk/gotool v1.0.0/go.mod h1:XhKaO+MFFWcvkIS/tQcRk01m1F5IRFswLeQ+oQHNcck=
 github.com/klauspost/compress v1.16.3 h1:XuJt9zzcnaz6a16/OU53ZjWp/v7/42WcR5t2a0PcNQY=
